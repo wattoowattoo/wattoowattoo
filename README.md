@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @wattoowattoo
+- 👋 Hi, I’m @wattoowattoo https://en.wikipedia.org/wiki/Wattoo_Wattoo_Super_Bird
 - 👀 I’m interested in coding well and nice things.
 - 🌱 I’m currently learning to code correctly after many years bad practice with shell, C and Python
 - 💞️ I’m looking to collaborate on anything I can be useful with
-- 📫 How to reach me: well that's part of my charm.
+- 📫 How to reach me: Should I need the help of others of my race I have only to whistle.
 
 <!---
 wattoowattoo/wattoowattoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
